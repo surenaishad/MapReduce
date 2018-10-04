@@ -1,4 +1,4 @@
-Files used in this assignment
+Files used.
 1. DocWordCount.java
 2. TermFrequency.java
 3. TFIDF.java
